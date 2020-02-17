@@ -1,4 +1,4 @@
-# ca
+# cellularautomata
 Cellular automata in javascript
 
 Based on the book: The Nature of Code by Daniel Shiffman. Available at: https://natureofcode.com/book
